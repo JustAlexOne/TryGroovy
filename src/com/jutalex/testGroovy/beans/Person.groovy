@@ -1,4 +1,4 @@
-package com.jutalex.testGroovy
+package com.jutalex.testGroovy.beans
 
 import groovy.transform.EqualsAndHashCode
 

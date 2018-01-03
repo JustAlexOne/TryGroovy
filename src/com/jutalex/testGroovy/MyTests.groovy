@@ -1,5 +1,7 @@
 package com.jutalex.testGroovy
 
+import com.jutalex.testGroovy.beans.CanonicalPerson
+import com.jutalex.testGroovy.beans.Person
 import groovy.json.JsonBuilder
 import org.testng.annotations.Test
 
