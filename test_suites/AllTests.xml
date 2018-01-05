@@ -1,0 +1,29 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name="N2 Reach Regression">
+
+    <test name="Closure Tests" verbose="1" preserve-order="true">
+       <classes>
+           <class name="com.jutalex.testGroovy.ClosuresTests"/>
+       </classes>
+    </test>
+
+    <test name="Collections Tests" verbose="1" preserve-order="true">
+        <classes>
+            <class name="com.jutalex.testGroovy.CollectionsTests"/>
+        </classes>
+    </test>
+
+    <test name="General Tests" verbose="1" preserve-order="true">
+        <classes>
+            <class name="com.jutalex.testGroovy.GeneralTests"/>
+        </classes>
+    </test>
+
+    <test name="Maps Tests" verbose="1" preserve-order="true">
+        <classes>
+            <class name="com.jutalex.testGroovy.MapsTests"/>
+        </classes>
+    </test>
+
+</suite>
+

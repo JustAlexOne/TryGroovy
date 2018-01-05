@@ -1,14 +1,14 @@
 package com.jutalex.testGroovy.beans
+
 import groovy.transform.EqualsAndHashCode
 
+/**
+ * This class is supposed to have no declared constructor
+ */
 @EqualsAndHashCode
-class Person {
+class User {
 
-    int age
     String name
+    int age
 
-    Person(int age, String name) {
-        this.age = age
-        this.name = name
-    }
 }
