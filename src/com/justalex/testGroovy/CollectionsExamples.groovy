@@ -3,7 +3,7 @@ package com.justalex.testGroovy
 import com.justalex.testGroovy.beans.Person
 import org.testng.annotations.Test
 
-class CollectionsTests {
+class CollectionsExamples {
 
     @Test
     void testListsInit() {

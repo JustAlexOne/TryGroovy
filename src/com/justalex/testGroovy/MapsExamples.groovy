@@ -3,7 +3,7 @@ package com.justalex.testGroovy
 import org.testng.annotations.Test
 
 
-class MapsTests {
+class MapsExamples {
 
     @Test
     void testMapInit() {

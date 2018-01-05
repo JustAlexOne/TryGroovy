@@ -4,7 +4,7 @@ import com.justalex.testGroovy.beans.Person
 import org.testng.annotations.Test
 
 
-class ClosuresTests {
+class ClosuresExamples {
 
     @Test
     void initClosure() {

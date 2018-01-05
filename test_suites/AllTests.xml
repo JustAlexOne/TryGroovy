@@ -3,25 +3,25 @@
 
     <test name="Closure Tests" verbose="1" preserve-order="true">
        <classes>
-           <class name="com.justalex.testGroovy.ClosuresTests"/>
+           <class name="com.justalex.testGroovy.ClosuresExamples"/>
        </classes>
     </test>
 
     <test name="Collections Tests" verbose="1" preserve-order="true">
         <classes>
-            <class name="com.justalex.testGroovy.CollectionsTests"/>
+            <class name="com.justalex.testGroovy.CollectionsExamples"/>
         </classes>
     </test>
 
     <test name="General Tests" verbose="1" preserve-order="true">
         <classes>
-            <class name="com.justalex.testGroovy.GeneralTests"/>
+            <class name="com.justalex.testGroovy.GeneralExamples"/>
         </classes>
     </test>
 
     <test name="Maps Tests" verbose="1" preserve-order="true">
         <classes>
-            <class name="com.justalex.testGroovy.MapsTests"/>
+            <class name="com.justalex.testGroovy.MapsExamples"/>
         </classes>
     </test>
 

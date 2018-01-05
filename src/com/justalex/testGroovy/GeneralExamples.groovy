@@ -9,7 +9,7 @@ import groovy.json.JsonBuilder
 import groovy.test.GroovyAssert
 import org.testng.annotations.Test
 
-class GeneralTests extends GroovyTestCase /*needed to get methods like shouldFail()*/ {
+class GeneralExamples extends GroovyTestCase /*needed to get methods like shouldFail()*/ {
 
     @Test
     def testReadFile() {
