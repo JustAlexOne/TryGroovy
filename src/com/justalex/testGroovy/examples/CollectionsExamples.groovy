@@ -1,4 +1,4 @@
-package com.justalex.testGroovy
+package com.justalex.testGroovy.examples
 
 import com.justalex.testGroovy.beans.Person
 import org.testng.annotations.Test

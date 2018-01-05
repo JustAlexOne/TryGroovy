@@ -1,4 +1,4 @@
-package com.justalex.testGroovy
+package com.justalex.testGroovy.examples
 
 import com.justalex.testGroovy.beans.CanonicalPerson
 import com.justalex.testGroovy.beans.Customer
