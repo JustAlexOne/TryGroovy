@@ -1,4 +1,4 @@
-package com.jutalex.testGroovy
+package com.justalex.testGroovy
 
 import org.testng.annotations.Test
 

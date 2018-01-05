@@ -1,6 +1,10 @@
-package com.jutalex.testGroovy
+package com.justalex.testGroovy
 
-import com.jutalex.testGroovy.beans.*
+import com.justalex.testGroovy.beans.CanonicalPerson
+import com.justalex.testGroovy.beans.Customer
+import com.justalex.testGroovy.beans.Employee
+import com.justalex.testGroovy.beans.Person
+import com.justalex.testGroovy.beans.User
 import groovy.json.JsonBuilder
 import groovy.test.GroovyAssert
 import org.testng.annotations.Test

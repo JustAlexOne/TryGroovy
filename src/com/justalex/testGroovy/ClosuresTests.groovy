@@ -1,6 +1,6 @@
-package com.jutalex.testGroovy
+package com.justalex.testGroovy
 
-import com.jutalex.testGroovy.beans.Person
+import com.justalex.testGroovy.beans.Person
 import org.testng.annotations.Test
 
 

@@ -1,4 +1,4 @@
-package com.jutalex.testGroovy.beans
+package com.justalex.testGroovy.beans
 
 import groovy.transform.Canonical
 
