@@ -135,4 +135,11 @@ class CollectionsExamples {
         assert myList.findAll { it > 1 } == [2, 3]
     }
 
+    @Test
+    void testCreatePredefinedList() {
+        List myList = []
+        1.upto(4) { myList.add("${it}") }
+        assert myList == ["1", "2", "3", "4"]
+    }
+
 }
